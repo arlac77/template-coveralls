@@ -1,0 +1,20 @@
+{
+  "template": {
+    "mergers": [
+      {
+        "type": "Readme",
+        "pattern": "README.md",
+        "options": {
+          "badges": [
+            {
+              "name": "Coverage Status",
+              "icon": "https://coveralls.io/repos/{{github.user}}/{{github.repo}}/badge.svg",
+              "url": "https://coveralls.io/r/{{github.user}}/{{github.repo}}",
+              "order" : 0.41
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
