@@ -1,5 +1,8 @@
 {
   "template": {
+    "inheritFrom": [
+      "arlac77/template-coverage"
+    ],
     "mergers": [
       {
         "type": "Readme",
