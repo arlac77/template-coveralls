@@ -1,6 +1,6 @@
 {
   "template": {
-    "inheritFrom": [
+    "inheridFrom": [
       "arlac77/template-coverage"
     ],
     "mergers": [
@@ -13,7 +13,7 @@
               "name": "Coverage Status",
               "icon": "https://coveralls.io/repos/{{github.user}}/{{github.repo}}/badge.svg",
               "url": "https://coveralls.io/r/{{github.user}}/{{github.repo}}",
-              "order" : 0.41
+              "order": 0.41
             }
           ]
         }
