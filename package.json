@@ -1,7 +1,7 @@
 {
   "template": {
     "inheridFrom": [
-      "arlac77/template-coverage"
+      "arlac77/template-ava-coverage"
     ],
     "mergers": [
       {
