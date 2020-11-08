@@ -1,5 +1,8 @@
 {
   "template": {
+    "usedBy": [
+      "arlac77/template-kronos-component"
+    ],
     "inheridFrom": [
       "arlac77/template-ava-coverage"
     ],
