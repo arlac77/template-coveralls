@@ -1,6 +1,7 @@
 {
   "template": {
     "usedBy": [
+      "arlac77/hinted-tree-merger",
       "arlac77/template-kronos-component"
     ],
     "inheridFrom": [
