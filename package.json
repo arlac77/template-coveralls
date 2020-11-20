@@ -1,6 +1,7 @@
 {
   "template": {
     "usedBy": [
+      "arlac77/repository-provider-test-support",
       "arlac77/template-kronos-component"
     ],
     "inheridFrom": [
