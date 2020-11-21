@@ -1,5 +1,0 @@
-jobs:
-  include:
-    - stage: test
-      script:
-        - cat ./build/coverage/lcov.info | npx coveralls
