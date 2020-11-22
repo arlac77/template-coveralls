@@ -1,6 +1,7 @@
 {
   "template": {
     "usedBy": [
+      "arlac77/console-auth-provider",
       "arlac77/template-kronos-component"
     ],
     "inheridFrom": [
