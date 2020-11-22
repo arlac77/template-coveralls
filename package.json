@@ -1,7 +1,7 @@
 {
   "template": {
     "usedBy": [
-      "arlac77/dns-playground",
+      "arlac77/expression-expander",
       "arlac77/template-kronos-component"
     ],
     "inheridFrom": [
