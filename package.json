@@ -1,6 +1,7 @@
 {
   "template": {
     "usedBy": [
+      "arlac77/fs-resolver-fs",
       "arlac77/template-kronos-component"
     ],
     "inheridFrom": [
