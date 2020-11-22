@@ -1,6 +1,7 @@
 {
   "template": {
     "usedBy": [
+      "arlac77/env-auth-provider",
       "arlac77/template-kronos-component"
     ],
     "inheridFrom": [
