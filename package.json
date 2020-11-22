@@ -1,6 +1,7 @@
 {
   "template": {
     "usedBy": [
+      "arlac77/iterable-string-interceptor",
       "arlac77/template-kronos-component"
     ],
     "inheridFrom": [
