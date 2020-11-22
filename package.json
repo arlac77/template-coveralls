@@ -1,6 +1,7 @@
 {
   "template": {
     "usedBy": [
+      "arlac77/koa-github-hook-handler",
       "arlac77/template-kronos-component"
     ],
     "inheridFrom": [
