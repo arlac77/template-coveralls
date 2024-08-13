@@ -8,13 +8,13 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4.1.7
       - name: prepare node
-        name: prepare node
         uses: actions/setup-node@v4.0.3
         with:
           node-version: ${{ matrix.node-version }}
           cache: npm
           cache-dependency-path: 'package-lock.json'
-      - run: npm run cover --if-present
+      - name: test and coverage
+        run: npm run cover --if-present
       - name: coveralls
         uses: coverallsapp/github-action@v2
         with:
