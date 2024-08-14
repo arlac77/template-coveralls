@@ -14,6 +14,7 @@ jobs:
           cache: npm
           cache-dependency-path: 'package-lock.json'
       - name: test and coverage
+        name: test and coverage
         run: npm run cover --if-present
       - name: coveralls
         uses: coverallsapp/github-action@v2
