@@ -12,7 +12,6 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
           cache: --delete--
-          cache-dependency-path: --delete--
       - name: test and coverage
         run: npm run cover --if-present
       - name: coveralls
